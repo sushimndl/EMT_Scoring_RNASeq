@@ -7,7 +7,7 @@ This code takes raw read counts from the user and calculated TPM expression data
 After QC filtering, align using STAR-aligner using appropriate reference genome (hg38/mm10) and then calculate raw read counts using htseq-count.
 
 ### Running the code
-####  ***Make Data, Data_generated and Output folders***
+####  ***Make Data, Data_generated, Plot files and Output folders***
 
 Using the above said raw counts, source the all_GSE_EMT.R code
 
