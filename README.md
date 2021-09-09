@@ -14,6 +14,5 @@ Using the above said raw counts, source the all_GSE_EMT.R code
 This code will calculate the TPM expression data, EMT scores of three metrics: 76GS, KS and MLR. Also the correlations between these three metrics.
 
 
-
- ##### *** If you have any problem running this code, please let me know ***
+***If you have any problem running this code, please let me know***
 
